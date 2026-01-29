@@ -51,6 +51,6 @@ O dashboard permite visualizar receitas, despesas, resultados fiscais e indicado
 ![Receita x Despesa](dashboards/prints/receita-despesa.png)
 
 ### Comparativo Anual
-![Comparativo](dashboards/prints/analise-anual.png)
+![Comparativo](dashboards/prints/2026.png)
 
 
