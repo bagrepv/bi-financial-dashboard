@@ -1,49 +1,48 @@
-# 📊 BI Financial Dashboard
+# BI Financial Dashboard
 
-Projeto de **Business Intelligence** desenvolvido por **Paulo Victor**, com foco na análise financeira e apoio à tomada de decisão através de dashboards interativos no Power BI.
-
----
-
-## 🎯 Objetivo do Projeto
-Desenvolver um painel analítico para acompanhamento de **receitas e despesas**, permitindo análise comparativa entre exercícios fiscais e visualização clara dos principais indicadores financeiros.
+Projeto de Business Intelligence com foco em análise financeira, desenvolvido para demonstrar habilidades analíticas, modelagem de dados e visualização no Power BI.
 
 ---
 
-## 📈 Análises Disponíveis
-- Receita por exercício fiscal (2025 e 2026)
-- Despesa por exercício fiscal
-- Comparativo anual
-- Evolução mensal
-- Indicadores financeiros
-- Análise de desempenho orçamental
+## 📊 Descrição do Projeto
+
+Este projeto tem como objetivo apresentar uma análise financeira organizada, clara e orientada à tomada de decisão, simulando um cenário real de acompanhamento orçamental.
+
+O dashboard permite visualizar receitas, despesas, resultados fiscais e indicadores financeiros ao longo do tempo.
 
 ---
 
-## 🧠 Principais Indicadores
-- Receita Total  
-- Despesa Total  
-- Resultado Financeiro  
-- Percentual de Execução Orçamental  
-- Variação entre exercícios  
+## 🎯 Objetivo
+
+- Analisar receitas e despesas
+- Identificar variações financeiras por período
+- Apoiar a tomada de decisão
+- Demonstrar boas práticas em projetos de BI
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
-- Power BI
-- DAX
-- Power Query
-- Modelagem de Dados (Star Schema)
-- Análise de Dados Financeiros
+## 🧠 Indicadores Analisados
+
+- Receita total  
+- Despesa total  
+- Resultado financeiro  
+- Evolução mensal  
+- Comparativo anual (2025 x 2026)  
+- Análise orçamental  
 
 ---
 
-## 📷 Dashboards
+## 🛠️ Ferramentas Utilizadas
 
-*(Inserir imagens dos dashboards)*
+- Power BI  
+- Power Query  
+- DAX  
+- Modelagem de Dados  
+- GitHub  
 
 ---
 
-## 📌 Contexto
-Projeto desenvolvido para fins de **portfólio profissional**, com foco em oportunidades de **Business Intelligence Júnior / Analista de Dados Júnior em Portugal**.
+## 📷 Prints do Dashboard
 
----
+As imagens do dashboard encontram-se na pasta:
+
