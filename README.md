@@ -44,5 +44,13 @@ O dashboard permite visualizar receitas, despesas, resultados fiscais e indicado
 
 ## 📷 Prints do Dashboard
 
-As imagens do dashboard encontram-se na pasta:
+### Visão Geral
+![Visão Geral](dashboards/prints/visao-geral.png)
+
+### Receita x Despesa
+![Receita x Despesa](dashboards/prints/receita-despesa.png)
+
+### Comparativo Anual
+![Comparativo](dashboards/prints/analise-anual.png)
+
 
