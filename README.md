@@ -1,21 +1,21 @@
 # 📊 BI Financial Dashboard
 
-Projeto de **Business Intelligence** com foco em **análise financeira e orçamental**, desenvolvido para demonstrar competências em Power BI, análise de dados e visualização de indicadores de apoio à tomada de decisão.
+Projeto de **Business Intelligence** com foco em **análise financeira e orçamental**, desenvolvido para demonstrar competências em Power BI, análise de dados e visualização de indicadores orientados à tomada de decisão.
 
 ---
 
 ## 🎯 Objetivo do Projeto
-Analisar receitas e despesas, identificar variações ao longo do tempo e apresentar indicadores financeiros de forma clara e objetiva.
+Analisar receitas, despesas e execução orçamental, incluindo o acompanhamento de **emendas parlamentares**, através de dashboards interativos e intuitivos.
 
 ---
 
 ## 📈 Análises e Indicadores
 - Receita total  
 - Despesa total  
-- Resultado financeiro  
 - Evolução mensal  
 - Comparativo anual (2025 × 2026)  
 - Execução orçamental  
+- Análise de emendas parlamentares  
 
 ---
 
@@ -30,15 +30,28 @@ Analisar receitas e despesas, identificar variações ao longo do tempo e aprese
 
 ## 📷 Exemplos do Dashboard
 
-### Visão Geral
+### Visão Geral Financeira
 ![Visão Geral](dashboards/prints/visao-geral.png)
 
-### Receita e Despesa
-![Receita e Despesa](dashboards/prints/receita-despesa.png)
+### Receitas
 
-### Comparativo Anual
-![Comparativo Anual](dashboards/prints/comparativo-anual.png)
+![Receitas](dashboards/prints/receita-despesa.png)
+
+### Emendas Parlamentares
+Dashboard analítico para acompanhamento da execução orçamental de emendas parlamentares, com filtros por parlamentar, município, situação e partido.
+![Emendas Parlamentares](dashboards/prints/emendas-parlamentares.png)
 
 ---
 
 ## 📁 Estrutura do Projeto
+
+---
+
+## 👤 Autor
+**Paulo Victor**  
+Business Intelligence Júnior | Power BI | Análise de Dados  
+
+📍 Interesse em oportunidades de BI Júnior em Portugal  
+
+*Dashboard desenvolvido com dados públicos/simulados para fins de estudo e portfólio.*
+
