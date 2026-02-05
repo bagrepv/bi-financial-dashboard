@@ -1,39 +1,25 @@
-# BI Financial Dashboard
+# 📊 BI Financial Dashboard
 
-Projeto de Business Intelligence com foco em análise financeira, desenvolvido para demonstrar habilidades analíticas, modelagem de dados e visualização no Power BI.
-
----
-
-## 📊 Descrição do Projeto
-
-Este projeto tem como objetivo apresentar uma análise financeira organizada, clara e orientada à tomada de decisão, simulando um cenário real de acompanhamento orçamental.
-
-O dashboard permite visualizar receitas, despesas, resultados fiscais e indicadores financeiros ao longo do tempo.
+Projeto de **Business Intelligence** com foco em **análise financeira e orçamental**, desenvolvido para demonstrar competências em Power BI, análise de dados e visualização de indicadores de apoio à tomada de decisão.
 
 ---
 
-## 🎯 Objetivo
-
-- Analisar receitas e despesas
-- Identificar variações financeiras por período
-- Apoiar a tomada de decisão
-- Demonstrar boas práticas em projetos de BI
+## 🎯 Objetivo do Projeto
+Analisar receitas e despesas, identificar variações ao longo do tempo e apresentar indicadores financeiros de forma clara e objetiva.
 
 ---
 
-## 🧠 Indicadores Analisados
-
+## 📈 Análises e Indicadores
 - Receita total  
 - Despesa total  
 - Resultado financeiro  
 - Evolução mensal  
-- Comparativo anual (2025 x 2026)  
-- Análise orçamental  
+- Comparativo anual (2025 × 2026)  
+- Execução orçamental  
 
 ---
 
 ## 🛠️ Ferramentas Utilizadas
-
 - Power BI  
 - Power Query  
 - DAX  
@@ -42,19 +28,17 @@ O dashboard permite visualizar receitas, despesas, resultados fiscais e indicado
 
 ---
 
-## 📷 Prints do Dashboard
+## 📷 Exemplos do Dashboard
 
 ### Visão Geral
-*(print será adicionado posteriormente)*
+![Visão Geral](dashboards/prints/visao-geral.png)
 
 ### Receita e Despesa
-*(print será adicionado posteriormente)*
+![Receita e Despesa](dashboards/prints/receita-despesa.png)
 
 ### Comparativo Anual
-*(print será adicionado posteriormente)*
+![Comparativo Anual](dashboards/prints/comparativo-anual.png)
 
+---
 
-
-
-
-
+## 📁 Estrutura do Projeto
