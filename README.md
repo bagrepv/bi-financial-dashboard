@@ -39,7 +39,7 @@ Analisar receitas, despesas e execução orçamental, incluindo o acompanhamento
 
 ### Emendas Parlamentares
 Dashboard analítico para acompanhamento da execução orçamental de emendas parlamentares, com filtros por parlamentar, município, situação e partido.
-![Emendas Parlamentares](dashboards/prints/emendas-parlamentares.png)
+![Emendas Parlamentares](dashboards/prints/emendas.png)
 
 ---
 
