@@ -57,5 +57,8 @@ Business Intelligence Júnior | Power BI | Análise de Dados
 
 📍 Interesse em oportunidades de BI Júnior em Portugal  
 
+🔗 LinkedIn: https://www.linkedin.com/in/paulo-victor-ab5069221
+
 *Dashboard desenvolvido com dados públicos/simulados para fins de estudo e portfólio.*
+
 
