@@ -31,11 +31,11 @@ Analisar receitas, despesas e execução orçamental, incluindo o acompanhamento
 ## 📷 Exemplos do Dashboard
 
 ### Visão Geral Financeira
-![Visão Geral](dashboards/prints/visao-geral.png)
+![Visão Geral](dashboards/prints/Visao.png)
 
 ### Receitas
 
-![Receitas](dashboards/prints/receitas.png)
+![Receitas](dashboards/prints/Receitas.png)
 
 ### Emendas Parlamentares
 Dashboard analítico para acompanhamento da execução orçamental de emendas parlamentares, com filtros por parlamentar, município, situação e partido.
